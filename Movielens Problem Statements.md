@@ -21,9 +21,7 @@
     - age
     - occupation
 
-    Use rating a label
-
-4. **Create train and test data set and perform the following:**
-
-- Create a histogram for movie, age, and occupation
+- Use rating a label
+- Create train and test data set and perform the following:
 - Evaluate the accuracy of the model
+- Create a histogram for movie, age, and occupation
